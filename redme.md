@@ -6,6 +6,12 @@ Relevant medium article for week 1: https://towardsdatascience.com/getting-start
 
 datasets to try out yourself https://www.dropbox.com/sh/ixv8wxuo27lay9k/AADUonRqDspggYct5bNIYr4ja?dl=0
 
+****************************************************************************************
+
+Week 2: Vectorising Text and Classification Algorithms
+
+Relevant medium article for week 2: https://towardsdatascience.com/no-fear-of-machine-learning-classify-your-textual-data-in-less-than-10-lines-of-code-2360d5cec798
+
 
 
 
