@@ -12,6 +12,11 @@ Week 2: Vectorising Text and Classification Algorithms
 
 Relevant medium article for week 2: https://towardsdatascience.com/no-fear-of-machine-learning-classify-your-textual-data-in-less-than-10-lines-of-code-2360d5cec798
 
+****************************************************************************************
+
+Week 3: Text Similarity Measurements and Chatbots
+
+Relevant medium article for week 3: *** not written yet - will come soon ***
 
 
 
